@@ -1,0 +1,17 @@
+body{
+	margin:40px
+auto;max-width:650px;line-height:1.6;font-size:18px;color:#444;padding:0
+10px
+}
+
+h1,h2,h3{line-height:1.2}
+
+police_grande
+{
+	line-height: 1.4;
+}
+
+marge_citation
+{
+/*Ici je pensais faire une balise css avec comme attribut de gérer l'alinéa pour la citation, mais la balise html quote suffit. */
+}
